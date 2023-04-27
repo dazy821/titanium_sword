@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " n ",
+    " i ",
+    " s "
+  ],
+  "key": {
+    "n": { 
+      "item": "minecraft:netherite_ingot"
+     },
+    "i": { 
+      "item": "minecraft:iron_ingot"
+     },
+  "s": { 
+    "item": "minecraft:stick"
+  }
+},
+  "result": {
+    "item": "forgeyoursword:my_sword"
+  }
+}
